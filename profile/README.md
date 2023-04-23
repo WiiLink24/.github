@@ -1,4 +1,4 @@
-<img width="50%" src="https://www.wiilink24.com/assets/header.png" alt="Logo"/>
+<img width="50%" src="https://www.wiilink24.com/Images/wiimotes_logo.png" alt="Logo"/>
 
 # Welcome to WiiLink!
 We're a team of avid tinkers dedicated to reversing channels on the Nintendo Wii.
