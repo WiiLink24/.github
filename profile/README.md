@@ -1,4 +1,6 @@
-<a href="https://wiilink24.com"><img width="50%" src="https://www.wiilink24.com/img/Wii_Link_Logo.png" alt="Logo"/></a>
+<p align="center">
+<a href="https://wiilink24.com"><img height="100px" src="https://www.wiilink24.com/img/Wii_Link_Logo.png" alt="Logo"/></a>
+</p>
 
 ---
 
