@@ -1,4 +1,4 @@
-<a href="https://wiilink24.com"><img width="50%" src="https://www.wiilink24.com/Images/wiimotes_logo.png" alt="Logo"/></a>
+<a href="https://wiilink24.com"><img width="50%" src="https://www.wiilink24.com/img/logo.png" alt="Logo"/></a>
 
 ---
 
