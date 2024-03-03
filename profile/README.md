@@ -8,7 +8,7 @@
 We are a team of avid tinkers dedicated to reversing channels on the Nintendo Wii.
 We specialize in reviving services long discontinued.
 
-  <a href="https://discord.gg/wiilink-750581992223146074" target="_blank">
+  <a href="https://discord.gg/wiilink" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
     <a href="https://twitter.com/wiilink24" target="_blank">
