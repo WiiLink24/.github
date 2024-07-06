@@ -5,7 +5,7 @@
 ---
 
 # Welcome to WiiLink!
-We are a team of avid tinkers dedicated to reversing channels on the Nintendo Wii.
+We are a team of avid tinkers dedicated to reversing channels on the Wii.
 We specialize in reviving services long discontinued.
 
   <a href="https://discord.gg/wiilink" target="_blank">
@@ -14,9 +14,6 @@ We specialize in reviving services long discontinued.
     <a href="https://twitter.com/wiilink24" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=00acee&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-    <a href="https://www.patreon.com/WiiLink24" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=f96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
-  </a>
 
 ## ❓ What does WiiLink develop?
 Quite a lot, ranging from backends for defunct services to helpful libraries on the Wii! For an up-to-date status page, please see [our website](https://www.wiilink24.com/status).
@@ -24,9 +21,9 @@ Quite a lot, ranging from backends for defunct services to helpful libraries on 
 Our three most developed services are as follows:
 | Service       | Backend                                                 |
 |---------------|---------------------------------------------------------|
-| Wii no Ma     | [room-server](https://github.com/WiiLink24/room-server) |
-| Digicam       | [cam-server](https://github.com/WiiLink24/cam-server)   |
-| Demae Channel | [food-server](https://github.com/WiiLink24/food-server) |
+| Wii Room      | [room-server](https://github.com/WiiLink24/room-server) |
+| Photo Prints  | [cam-server](https://github.com/WiiLink24/cam-server)   |
+| Food Channel  | [food-server](https://github.com/WiiLink24/food-server) |
 
 We additionally have patchers for the contents of these channels themselves, updating things such as URLs, certificates, and region-specific logic.
 
