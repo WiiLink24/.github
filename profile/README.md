@@ -5,7 +5,7 @@
 ---
 
 # Welcome to WiiLink!
-We are a team of avid tinkers dedicated to reversing channels on the Wii.
+We are a team of avid tinkers dedicated to reversing channels on the WiiA.
 We specialize in reviving services long discontinued.
 
   <a href="https://discord.gg/wiilink" target="_blank">
@@ -19,6 +19,9 @@ We specialize in reviving services long discontinued.
   </a>
     <a href="https://www.instagram.com/_wiilink" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@wiilink" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   
 
