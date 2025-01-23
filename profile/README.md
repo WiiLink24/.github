@@ -5,7 +5,7 @@
 ---
 
 # Welcome to WiiLink!
-We are a team of avid tinkers dedicated to reversing channels on the WiiA.
+We are a team of avid tinkers dedicated to reversing channels on the Wii.
 We specialize in reviving services long discontinued.
 
   <a href="https://discord.gg/wiilink" target="_blank">
