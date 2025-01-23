@@ -12,8 +12,15 @@ We specialize in reviving services long discontinued.
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
     <a href="https://twitter.com/wiilink24" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=00acee&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=00acee&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  <a href="https://bsky.app/profile/wiilink.ca" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=208bfe&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bluesky logo"  />
+  </a>
+    <a href="https://www.instagram.com/_wiilink" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  
 
 ## ❓ What does WiiLink develop?
 Quite a lot, ranging from backends for defunct services to helpful libraries on the Wii! For an up-to-date status page, please see [our website](https://www.wiilink24.com/status).
