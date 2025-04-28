@@ -11,8 +11,8 @@ We specialize in reviving services long discontinued.
   <a href="https://discord.gg/wiilink" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-    <a href="https://twitter.com/wiilink24" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=00acee&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <a href="https://x.com/wiilink24" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo"  />
   </a>
   <a href="https://bsky.app/profile/wiilink.ca" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=208bfe&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bluesky logo"  />
